@@ -3,6 +3,6 @@
 
 [Download data](http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
-Current accuracy : 90.5%
+Current accuracy : 92.0%
 
 The data-set contains 12 columns, 11 of which describe the chemical properties of wine, the last column corresponds to its quality. The quality of wine is directly correlated to its chemical composition, these chemical attributes are being used to train a deep learning model to predict its quality.
