@@ -5,7 +5,7 @@
 
 [Download data](http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
-The data-set contains 12 columns, 11 of which describe the chemical properties of wine, the last column corresponds to its quality. The quality of wine is directly correlated to its chemical composition, these chemical attributes are being used to train a PyTorch dense-net to predict its quality.
+The data-set contains 12 columns, 11 of which describe the chemical properties of wine, the last column corresponds to its quality. The quality of wine is directly correlated to its chemical composition, these chemical attributes are used to train a PyTorch dense-net to predict its quality.
 
 ![Test](https://github.com/Mainakdeb/Wine_Quality_Prediction/blob/master/images/wqp-train-metrics.png)
 
