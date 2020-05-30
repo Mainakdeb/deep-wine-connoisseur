@@ -7,4 +7,7 @@
 
 The data-set contains 12 columns, 11 of which describe the chemical properties of wine, the last column corresponds to its quality. The quality of wine is directly correlated to its chemical composition, these chemical attributes are being used to train a deep learning model to predict its quality.
 
-Accuracy : 93.0%
+![Test](https://github.com/Mainakdeb/Wine_Quality_Prediction/blob/master/images/wqp-train-metrics.png)
+
+
+Accuracy : 93.0% on the validation set.
